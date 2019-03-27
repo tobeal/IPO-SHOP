@@ -1,7 +1,7 @@
 # [IPO-SHOP](https://juan-cb.github.io/IPO-shop/) - Creada a partir de [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/)
 
 La web _dummy_ alojada en este repositorio está pensada para que los alumnos de la asignatura Interacción Persona-Ordenador de 3º del Grado en Ingeniería Informática de la Universidad de Salamanca.
-Los alumnos deben utilizarla para integrar [Walkme](http://walkme.com) y guiar usuarios por el sitio web para después evaluar su interacción con el mismo a través del panel de Analytics de Walkme.
+Los alumnos pueden utilizarla para integrar [Hotjar](https://www.hotjar.com/) y evaluar su interacción con la misma a través del panel de Analytics y Feedback de Hotjar.
 
 Las condiciones completas de la práctica, están en el [Studium](http://studium.usal.es) de la asignatura
 
